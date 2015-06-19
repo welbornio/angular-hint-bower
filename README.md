@@ -67,5 +67,8 @@ AngularHint is composed of several small modules that you may want to use indivi
 ## Interested in Contributing?
 See the [Contributing Guidelines](https://github.com/angular/angular-hint/blob/master/CONTRIBUTING.md)
 
+## Angular Hint Project
+If you would like to contribute to angular-hint, or view the original project, it can be found [here](https://github.com/angular/angular-hint).
+
 ## License
 Apache 2.0
